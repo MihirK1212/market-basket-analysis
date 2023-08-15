@@ -1,4 +1,4 @@
-# cs354-market-baseket-analysis
+# market-baseket-analysis
 Our problem is to analyze customer purchase behavior, recommend products based on their purchase history, and forecast sales for an ecommerce company.
 
 <h2>Our proposed Solution:-</h2>
@@ -35,4 +35,3 @@ Our problem is to analyze customer purchase behavior, recommend products based o
  - Install all the dependencies
  - Now, you can run pipeline.ipynb file 
 
-This project is part of course cs354 Computation Intelligence Lab IITI under guidance of prof Aruna Tiwari.
